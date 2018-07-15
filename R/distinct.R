@@ -140,7 +140,7 @@ list_cols_warning <- function(df, keep_cols) {
   keep_cols
 }
 
-#' Efficiently count the number of unique values in a set of vector
+#' Efficiently count the number of unique values in a set of vectors
 #'
 #' This is a faster and more concise equivalent of `length(unique(x))`
 #'
